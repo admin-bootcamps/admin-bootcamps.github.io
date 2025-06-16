@@ -107,6 +107,9 @@
             if (!this.apiKey) {
                 return 'TEXT KEY not set!';
             }
+            if (this.apiKey==`sk-or-v1-xxxxxx`) {
+                return 'TEXT KEY not set!';
+            }
 
             try {
                 const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
