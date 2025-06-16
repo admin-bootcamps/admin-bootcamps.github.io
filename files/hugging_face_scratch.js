@@ -88,6 +88,9 @@
             if (!this.apiKeyHF) {
                 return 'IMAGE KEY not set!';
             }
+            if (this.apiKeyHF==`hf_xxxxxx`) {
+                return 'IMAGE KEY not set!';
+            }
             const models_aliases = {
                 "AuraFlow-v0.3": {
                     "hfId": "fal/AuraFlow-v0.3",
