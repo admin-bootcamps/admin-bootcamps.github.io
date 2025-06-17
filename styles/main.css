@@ -31,7 +31,7 @@
 
 /* General Styling */
 body {
-    background-color: var(--color-pink-light);
+    background-color: var(--color-primary-light);
     padding: 20px;
     font-family: var(--body-font);
     color: #000;
@@ -60,7 +60,7 @@ body {
     display: inline-block;
     margin: 8px 0;
     padding: 12px 20px;
-    background-color: var(--color-purple-light);
+    background-color: var(--color-blue-light);
     color: #000;
     text-decoration: none;
     font-weight: 600;
@@ -81,7 +81,7 @@ button {
 }
   
   .button-style:hover {
-    background-color: var(--color-purple);
+    background-color: var(--color-blue);
     color: #fff;
   }
   
