@@ -4,18 +4,18 @@
 :root {
   --background-1: #000;
   --background-2: #fff;
-  --background-3: #ecfcff;
+  --background-3: #CCF6FF;
 
 
-  --background-full: #ecfcff;
-  --background-chat-window: #CCF6FF;
+  --background-full: #CCF6FF;
+  --background-chat-window: #99EDFF;
   --field-colors: #F3E6FF;
-  --button-color: #CCF6FF;
+  --button-color: #99EDFF;
   --button-hover: #00D2FF;
-  --info_box: #e7fcf5;
-  --user-input-head: #F3E6FF;
-  --model-output-head: #88F0CE;
-  --json-info-color: #6400BF;
+  --info_box: #CEFAEC;
+  --user-input-head: #E7CCFF;
+  --model-output-head: #9CF6D8;
+  --json-info-color: #0A6E4D;
 
 
 
