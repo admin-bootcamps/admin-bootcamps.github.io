@@ -2,20 +2,20 @@
 /* main2 is for fal ai test */
 
 :root {
-    --background-1: #000;
+     --background-1: #000;
     --background-2: #fff;
     --background-3: #ecfcff;
 
 
-    --background-full: #f4fdfa;
-    --background-chat-window: #eafff8;
+    --background-full: #CEFAEC;
+    --background-chat-window: #9CF6D8;
     --field-colors: #CCF6FF;
-    --button-color: #e4ccfb;
-    --button-hover: #C280FF;
-    --info_box: #f4edfa;
-    --user-input-head: #F3E6FF;
-    --model-output-head: #88F0CE;
-    --json-info-color: #0A6E4D;
+    --button-color: #9CF6D8;
+    --button-hover: #14DC9A;
+    --info_box: #E7CCFF;
+    --user-input-head: #99EDFF;
+    --model-output-head: #66E4FF;
+    --json-info-color: #6400BF;
 
 
 
